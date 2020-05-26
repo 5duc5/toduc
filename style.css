@@ -1,0 +1,26 @@
+#topbar{
+	width: 100%;
+	height: 50px;
+	background-color: blue;
+	color: white;
+	text-align: right;
+	display: block;
+}
+
+#center {
+    color: white;
+    background: black;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#leftside {
+    color: white;
+    background-color: green;
+    height: fit-content;
+    width: 220px;
+}
+.sidebar hr.sidebar-divider {
+  margin: 1rem 0 1rem 0;
+}
